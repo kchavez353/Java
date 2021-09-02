@@ -1,0 +1,5 @@
+public class HelloWorld{
+	public status void main{String[] aargs){
+		System.out.println("Hello World");
+	}
+}
